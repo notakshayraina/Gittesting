@@ -87,8 +87,8 @@
     <recordCreates>
         <name>created</name>
         <label>created</label>
-        <locationX>434</locationX>
-        <locationY>256</locationY>
+        <locationX>393</locationX>
+        <locationY>337</locationY>
         <connector>
             <targetReference>aa</targetReference>
         </connector>
@@ -141,7 +141,7 @@
         <fields>
             <name>choose_date</name>
             <dataType>Date</dataType>
-            <fieldText>choose date</fieldText>
+            <fieldText>Choose the date</fieldText>
             <fieldType>InputField</fieldType>
             <inputsOnNextNavToAssocScrn>UseStoredValues</inputsOnNextNavToAssocScrn>
             <isRequired>true</isRequired>
